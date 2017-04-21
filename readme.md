@@ -17,7 +17,6 @@
 
 WYSIWYG Editors that can be use without dependecy to other libraries or frameworks.
 
-for building rich text editors.
 - [Alloy Editor](https://github.com/liferay/alloy-editor/) - WYSIWYG editor based on CKEditor with completely rewritten UI.
 - [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library.
 - [CKEditor](https://github.com/ckeditor/ckeditor-dev) - The best web text editor for everyone. 
