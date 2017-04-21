@@ -3,10 +3,19 @@
 Ensure your pull request adheres to the following guidelines:
 
 - Make sure your contribution is useful and relevant before submitting.
-- Always search for previous suggestions before making a new one, as yours may produce duplicate.
+- As much as possible, your contribution is up to date.
+- Always search for previous contribution before making a new one, as yours may produce duplicate.
 - Check your spelling and grammar.
+- Keep descriptions short, simple and always end with a period.
+- Order link titles alphabetically within each category.
 - Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
-- Non-repository link can be acceptable ONLY if the contribution is a non open source.
+- Try to make your pull request and title as descriptive as possible.
+- New categories is always welcome. Improvements to the existing categories or this repository itself are always welcome too.
+
+
+## Suggestion
+
+- Since this repository is still young, suggestions are always welcome. Make an issue with `[suggestion]` at the beginning of the title. Make sure to justify what you suggest for this repository's improvement.
 
 
 ## Updating your PR
