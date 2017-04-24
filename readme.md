@@ -62,8 +62,8 @@ Editors for your angular-based project.
 
 Editors for your react-based project.
 
-- [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
+- [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) -React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
@@ -83,7 +83,11 @@ Editors for your vue-based project.
 
 Editors for your angular-based project.
 
+- [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails) - WYSIWYG editor for Bootstrap, integrated in Rails assets pipeline.
+- [bootsy](https://github.com/volmer/bootsy) - A beautiful wysiwyg editor with image upload for Rails.
+- [ckeditor](https://github.com/galetahub/ckeditor) - Ckeditor integration gem for rails.
 - [Mercury Editor](https://github.com/jejacks0n/mercury/) - Mercury Editor: The Rails HTML5 WYSIWYG editor.
+- [wysiwyg-rails](https://github.com/froala/wysiwyg-rails) - Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.
 
 
 ## WYSIWYG-alike

@@ -13,11 +13,6 @@ Ensure your pull request adheres to the following guidelines:
 - New categories is always welcome. Improvements to the existing categories or this repository itself are always welcome too.
 
 
-## Suggestion
-
-- Since this repository is still young, suggestions are always welcome. Make an issue with `[suggestion]` at the beginning of the title. Make sure to justify what you suggest for this repository's improvement.
-
-
 ## Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult.
