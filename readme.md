@@ -28,7 +28,9 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Medium.js](https://github.com/jakiestfu/Medium.js/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 - [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
 - [Pen Editor](https://github.com/sofish/pen) - enjoy live editing (+markdown).
+- [popline](http://kenshin54.github.io/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [Quill](https://github.com/quilljs/quill) - a modern rich text editor built for compatibility and extensibility.
+- [Squire](https://neilj.github.io/Squire) - an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
@@ -95,6 +97,7 @@ Editors for your angular-based project.
 WYSIWYG-like editors
 
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery.
+- [GrapeJS](http://grapesjs.com) - an open-source, multi-purpose, Web Builder Framework.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
 - [SimpleMDE](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor.
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web.
