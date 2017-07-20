@@ -28,7 +28,6 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Medium.js](https://github.com/jakiestfu/Medium.js/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 - [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
 - [Pen Editor](https://github.com/sofish/pen) - enjoy live editing (+markdown).
-- [popline](http://kenshin54.github.io/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [Quill](https://github.com/quilljs/quill) - a modern rich text editor built for compatibility and extensibility.
 - [Squire](https://neilj.github.io/Squire) - an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
@@ -48,6 +47,7 @@ JQuery required editors
 - [Easyeditor](https://github.com/im4aLL/easyeditor) - Very lightweight and highly configurable rich text html editor.
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) - A beautifuly designed jQuery WYSIWYG Rich Text Editor based on HTML5.
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
+- [popline](http://kenshin54.github.io/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [Summernote](https://github.com/summernote/summernote/) - Super simple WYSIWYG editor.
 
 
