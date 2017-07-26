@@ -27,6 +27,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [Medium.js](https://github.com/jakiestfu/Medium.js/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 - [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
+- [Pell](https://github.com/jaredreich/pell) - the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies.
 - [Pen Editor](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 - [Quill](https://github.com/quilljs/quill) - a modern rich text editor built for compatibility and extensibility.
 - [Squire](https://neilj.github.io/Squire) - an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
@@ -98,6 +99,8 @@ WYSIWYG-like editors
 
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery.
 - [GrapeJS](http://grapesjs.com) - an open-source, multi-purpose, Web Builder Framework.
+- [last-draft](https://github.com/vacenz/last-draft) - a Draft.js editor using draft-js-plugins.
+- [Ory editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
 - [SimpleMDE](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor.
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web.
