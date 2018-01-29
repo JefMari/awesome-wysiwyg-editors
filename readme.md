@@ -104,7 +104,6 @@ WYSIWYG-like editors
 - [last-draft](https://github.com/vacenz/last-draft) - a Draft.js editor using draft-js-plugins.
 - [Ory editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
-- [SimpleMDE](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor.
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web.
 - [woofmark](https://github.com/bevacqua/woofmark) - A modular, progressive, and beautiful Markdown and HTML editor.
 
