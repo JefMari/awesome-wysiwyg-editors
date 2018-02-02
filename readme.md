@@ -37,7 +37,6 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [TinyMCE](https://github.com/tinymce/tinymce) - a JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
-- [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip).
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
 
 ## JQuery Based
@@ -52,6 +51,7 @@ JQuery required editors
 - [popline](http://kenshin54.github.io/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [Summernote](https://github.com/summernote/summernote/) - Super simple WYSIWYG editor.
 - [Toast UI Editor](https://github.com/nhnent/tui.editor) - Markdown WYSIWYG Editor - Productive and Extensible
+- [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip).
 
 
 ## For Angular
