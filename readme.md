@@ -33,7 +33,6 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Quill](https://github.com/quilljs/quill) - a modern rich text editor built for compatibility and extensibility.
 - [Squire](https://neilj.github.io/Squire) - an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
-- [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [TinyMCE](https://github.com/tinymce/tinymce) - a JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
@@ -73,6 +72,7 @@ Editors for your react-based project.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
+- [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
 
 ## For Vue
 
