@@ -24,7 +24,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
 - [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.
-- [jodit](https://github.com/xdan/jodit) - rich html Editor and FileBrowser.
+- [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [Medium.js](https://github.com/jakiestfu/Medium.js/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 - [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
@@ -60,7 +60,7 @@ Editors for your angular-based project.
 - [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) -Angular Directive for Quill rich text editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js
-
+- [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
 
 ## For React
 
@@ -73,6 +73,7 @@ Editors for your react-based project.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
+- [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
 
 ## For Vue
 
