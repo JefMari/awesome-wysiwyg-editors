@@ -58,9 +58,9 @@ JQuery required editors
 Editors for your angular-based project.
 
 - [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
+- [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) -Angular Directive for Quill rich text editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js
-- [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
 
 ## For React
 
@@ -68,12 +68,12 @@ Editors for your react-based project.
 
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
+- [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) -React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
-- [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
 
 ## For Vue
 
