@@ -24,7 +24,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
 - [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.
-- [jodit](https://github.com/xdan/jodit) - rich html Editor and FileBrowser.
+- [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [Medium.js](https://github.com/jakiestfu/Medium.js/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 - [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
@@ -58,9 +58,9 @@ JQuery required editors
 Editors for your angular-based project.
 
 - [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
+- [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) -Angular Directive for Quill rich text editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js
-
 
 ## For React
 
@@ -68,6 +68,7 @@ Editors for your react-based project.
 
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
+- [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) -React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
