@@ -69,6 +69,7 @@ Editors for your react-based project.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
+- [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) -React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
