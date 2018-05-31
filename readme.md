@@ -88,7 +88,7 @@ Editors for your vue-based project.
 
 ## For Ruby
 
-Editors for your angular-based project.
+Editors for your ruby-based project.
 
 - [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails) - WYSIWYG editor for Bootstrap, integrated in Rails assets pipeline.
 - [bootsy](https://github.com/volmer/bootsy) - A beautiful wysiwyg editor with image upload for Rails.
