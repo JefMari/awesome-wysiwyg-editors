@@ -61,7 +61,6 @@ Editors for your angular-based project.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) -Angular Directive for Quill rich text editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js
-- [ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Extensible component based editor with fancy drag-and-drop experience
 
 ## For React
 
@@ -109,6 +108,7 @@ WYSIWYG-like editors
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web.
 - [woofmark](https://github.com/bevacqua/woofmark) - A modular, progressive, and beautiful Markdown and HTML editor.
+- [ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Extensible component based editor with fancy drag-and-drop experience
 
 
 ## Contribute
