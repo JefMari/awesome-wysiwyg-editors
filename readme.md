@@ -108,6 +108,7 @@ WYSIWYG-like editors
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web.
 - [woofmark](https://github.com/bevacqua/woofmark) - A modular, progressive, and beautiful Markdown and HTML editor.
+- [ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Extensible component based editor with fancy drag-and-drop experience
 
 
 ## Contribute
