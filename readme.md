@@ -86,6 +86,7 @@ Editors for your vue-based project.
 - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for vue.
 - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
+- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue
 
 
 ## For Ruby
