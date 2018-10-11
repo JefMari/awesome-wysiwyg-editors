@@ -60,6 +60,7 @@ JQuery required editors
 Editors for your angular-based project.
 
 - [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
+- [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - CKEditor 5 rich text editor component for Angular 2+.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) -Angular Directive for Quill rich text editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js
@@ -68,6 +69,7 @@ Editors for your angular-based project.
 
 Editors for your react-based project.
 
+- [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - CKEditor 5 rich text editor component for React.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
