@@ -17,7 +17,6 @@
 
 WYSIWYG Editors that can be use without dependecy to other libraries or frameworks.
 
-- [Alloy Editor](https://github.com/liferay/alloy-editor/) - WYSIWYG editor based on CKEditor with completely rewritten UI.
 - [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library.
 - [CKEditor 4](https://github.com/ckeditor/ckeditor-dev) - Battle-tested WYSIWYG HTML editor.
 - [CKEditor 5](https://github.com/ckeditor/ckeditor5) - A set of ready to use rich text editors created with a powerful framework.
@@ -69,6 +68,7 @@ Editors for your angular-based project.
 
 Editors for your react-based project.
 
+- [Alloy Editor](https://github.com/liferay/alloy-editor/) - WYSIWYG editor based on CKEditor with completely rewritten UI.
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - CKEditor 5 rich text editor component for React.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - a JavaScript rich text editor framework, built for React and backed by an immutable model.
