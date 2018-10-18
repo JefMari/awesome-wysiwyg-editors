@@ -49,6 +49,7 @@ JQuery required editors
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) - A beautifuly designed jQuery WYSIWYG Rich Text Editor based on HTML5.
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 - [popline](http://kenshin54.github.io/popline) - An HTML5 Rich-Text-Editor Toolbar.
+- [simditor](https://github.com/mycolorway/simditor) An Easy and Fast WYSIWYG Editor.
 - [Summernote](https://github.com/summernote/summernote/) - Super simple WYSIWYG editor.
 - [Toast UI Editor](https://github.com/nhnent/tui.editor) - Markdown WYSIWYG Editor - Productive and Extensible
 - [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor - 20kB only (8kB gzip).
