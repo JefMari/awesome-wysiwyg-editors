@@ -110,7 +110,7 @@ Editors for your ruby-based project.
 WYSIWYG-like editors
 
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery.
-- [GrapeJS](http://grapesjs.com) - an open-source, multi-purpose, Web Builder Framework.
+- [GrapesJS](http://grapesjs.com) - an open-source, multi-purpose, Web Builder Framework.
 - [last-draft](https://github.com/vacenz/last-draft) - a Draft.js editor using draft-js-plugins.
 - [Ory editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
