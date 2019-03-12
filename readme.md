@@ -62,7 +62,8 @@ Editors for your angular-based project.
 - [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular
-- [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) -Angular Directive for Quill rich text editor.
+- [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) - AngularJS Component for Quill rich text editor.
+- [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An angular (>=2) component for the Quill Rich Text Editor
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js
 
 ## For React
@@ -77,6 +78,7 @@ Editors for your react-based project.
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) -React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
+- [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
@@ -90,7 +92,8 @@ Editors for your vue-based project.
 - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for vue.
 - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
-- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue
+- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue.
+- [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js
 
 
