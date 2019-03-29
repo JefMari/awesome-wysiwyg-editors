@@ -37,6 +37,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
 - [Tui Editor](http://ui.toast.com/tui-editor/) - GFM Markdown Wysiwyg Editor - Productive and Extensible
+- [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented.
 
 
 ## JQuery Based
