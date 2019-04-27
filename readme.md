@@ -1,6 +1,6 @@
 # Awesome WYSIWYG [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)  [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-> A curated list of awesome WYSIWYG editors
+> A curated list of awesome WYSIWYG editors.
 
 ## Contents
 - [Standalone](#standalone)
