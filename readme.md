@@ -28,7 +28,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies.
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown).
 - [Quill](https://github.com/quilljs/quill) - A modern rich text editor built for compatibility and extensibility.
-- [Squire](https://neilj.github.io/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
+- [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
@@ -46,7 +46,7 @@ JQuery required editors
 - [Easyeditor](https://github.com/im4aLL/easyeditor) - Very lightweight and highly configurable rich text html editor.
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) - A beautifuly designed jQuery WYSIWYG Rich Text Editor based on HTML5.
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
-- [popline](http://kenshin54.github.io/popline) - An HTML5 Rich-Text-Editor Toolbar.
+- [popline](https://github.com/kenshin54/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor.
 - [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 - [Toast UI Editor](https://github.com/nhnent/tui.editor) - Markdown WYSIWYG Editor - Productive and Extensible.
@@ -108,7 +108,7 @@ Editors for your ruby-based project.
 WYSIWYG-like editors
 
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery.
-- [GrapesJS](http://grapesjs.com) - An open-source, multi-purpose, Web Builder Framework.
+- [GrapesJS](https://github.com/artf/grapesjs) - An open-source, multi-purpose, Web Builder Framework.
 - [last-draft](https://github.com/vacenz/last-draft) - A Draft.js editor using draft-js-plugins.
 - [Ory editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
