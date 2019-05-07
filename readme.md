@@ -93,7 +93,7 @@ Editors for your vue-based project.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
 - [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue.
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
-- [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue
+- [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js.
 
 ## For Ruby
