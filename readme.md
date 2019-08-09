@@ -58,6 +58,7 @@ Editors for your angular-based project.
 
 - [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
+-  [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular.
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) - AngularJS Component for Quill rich text editor.
 - [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An angular (>=2) component for the Quill Rich Text Editor.
