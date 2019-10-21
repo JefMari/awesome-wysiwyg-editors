@@ -31,6 +31,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+- [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
@@ -81,6 +82,7 @@ Editors for your react-based project.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
+- [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies).
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
 
 ## For Vue
