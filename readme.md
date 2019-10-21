@@ -62,6 +62,7 @@ Editors for your angular-based project.
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) - AngularJS Component for Quill rich text editor.
 - [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An angular (>=2) component for the Quill Rich Text Editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js.
+- [tinymce-angular](https://github.com/tinymce/tinymce-angular) - official Angular wrapper for TinyMCE.
 
 ## For React
 
@@ -79,6 +80,7 @@ Editors for your react-based project.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
+- [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
 
 ## For Vue
 
@@ -91,6 +93,7 @@ Editors for your vue-based project.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
 - [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue.
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
+- [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js.
 
 ## For Ruby
@@ -103,7 +106,7 @@ Editors for your ruby-based project.
 - [Mercury Editor](https://github.com/jejacks0n/mercury/) - Mercury Editor: The Rails HTML5 WYSIWYG editor.
 - [wysiwyg-rails](https://github.com/froala/wysiwyg-rails) - Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.
 
-## WYSIWYG-alike
+## WYSIWYG-like
 
 WYSIWYG-like editors
 
