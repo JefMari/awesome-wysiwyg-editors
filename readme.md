@@ -81,6 +81,7 @@ Editors for your react-based project.
 - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
+- [react-trix](https://github.com/dstpierre/react-trix) - React wrapper for Basecamp's Trix editor.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
 - [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies).
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
