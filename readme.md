@@ -110,9 +110,9 @@ Editors for your ruby-based project.
 - [Mercury Editor](https://github.com/jejacks0n/mercury/) - Mercury Editor: The Rails HTML5 WYSIWYG editor.
 - [wysiwyg-rails](https://github.com/froala/wysiwyg-rails) - Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.
 
-## WYSIWYG-like
+## WYSIWYG-alike
 
-WYSIWYG-like editors
+WYSIWYG-alike editors
 
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery.
 - [GrapesJS](https://github.com/artf/grapesjs) - An open-source, multi-purpose, Web Builder Framework.
