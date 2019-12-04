@@ -65,6 +65,7 @@ Editors for your angular-based project.
 - [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An angular (>=2) component for the Quill Rich Text Editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js.
 - [tinymce-angular](https://github.com/tinymce/tinymce-angular) - official Angular wrapper for TinyMCE.
+- [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor (Inspired from AngularJS [ngWig](https://github.com/stevermeister/ngWig))
 
 ## For React
 
