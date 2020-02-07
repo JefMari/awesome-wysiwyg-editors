@@ -91,6 +91,7 @@ Editors for your react-based project.
 
 Editors for your vue-based project.
 
+- [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Vue component for Froala WYSIWYG HTML Rich Text Editor.
 - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for vue.
