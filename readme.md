@@ -20,6 +20,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [CKEditor 5](https://github.com/ckeditor/ckeditor5) - A set of ready to use rich text editors created with a powerful framework.
 - [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
+- [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
 - [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.
 - [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -45,7 +46,6 @@ JQuery required editors
 - [bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 - [Dante Editor](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone.
 - [Easyeditor](https://github.com/im4aLL/easyeditor) - Very lightweight and highly configurable rich text html editor.
-- [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed jQuery WYSIWYG Rich Text Editor based on HTML5.
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 - [popline](https://github.com/kenshin54/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor.
