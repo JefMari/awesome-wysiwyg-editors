@@ -20,6 +20,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [CKEditor 5](https://github.com/ckeditor/ckeditor5) - A set of ready to use rich text editors created with a powerful framework.
 - [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
+- [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
 - [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.
 - [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -45,7 +46,6 @@ JQuery required editors
 - [bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 - [Dante Editor](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone.
 - [Easyeditor](https://github.com/im4aLL/easyeditor) - Very lightweight and highly configurable rich text html editor.
-- [Froala Editor](https://github.com/froala/wysiwyg-editor) - A beautifuly designed jQuery WYSIWYG Rich Text Editor based on HTML5.
 - [jQuery-Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 - [popline](https://github.com/kenshin54/popline) - An HTML5 Rich-Text-Editor Toolbar.
 - [simditor](https://github.com/mycolorway/simditor) - An Easy and Fast WYSIWYG Editor.
@@ -57,7 +57,7 @@ JQuery required editors
 
 Editors for your angular-based project.
 
-- [angular-froala](https://github.com/froala/angular-froala) - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
+- [angular-froala](https://github.com/froala/angular-froala) `$ Non-Free` - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 -  [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular.
@@ -77,7 +77,7 @@ Editors for your react-based project.
 - [Draft.js](https://github.com/facebook/draft-js) - A JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS.
-- [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) - React component for Froala WYSIWYG HTML Rich Text Editor.
+- [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) `$ Non-Free` - React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
@@ -93,7 +93,7 @@ Editors for your vue-based project.
 
 - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
-- [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Vue component for Froala WYSIWYG HTML Rich Text Editor.
+- [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) `$ Non-Free` - Vue component for Froala WYSIWYG HTML Rich Text Editor.
 - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for vue.
 - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
@@ -110,7 +110,7 @@ Editors for your ruby-based project.
 - [bootsy](https://github.com/volmer/bootsy) - A beautiful wysiwyg editor with image upload for Rails.
 - [ckeditor](https://github.com/galetahub/ckeditor) - Ckeditor integration gem for rails.
 - [Mercury Editor](https://github.com/jejacks0n/mercury/) - Mercury Editor: The Rails HTML5 WYSIWYG editor.
-- [wysiwyg-rails](https://github.com/froala/wysiwyg-rails) - Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.
+- [wysiwyg-rails](https://github.com/froala/wysiwyg-rails) `$ Non-Free` - Ruby gem for Froala jQuery WYSIWYG HTML Rich Text Editor.
 
 ## WYSIWYG-alike
 
