@@ -101,6 +101,7 @@ Editors for your vue-based project.
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js.
+- [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix editor component for Vue.js.
 
 ## For Ruby
 
