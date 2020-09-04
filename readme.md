@@ -58,8 +58,9 @@ JQuery required editors
 Editors for your angular-based project.
 
 - [angular-froala](https://github.com/froala/angular-froala) `$ Non-Free` - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
+- [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
--  [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
+- [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular.
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) - AngularJS Component for Quill rich text editor.
 - [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An angular (>=2) component for the Quill Rich Text Editor.
@@ -72,6 +73,7 @@ Editors for your angular-based project.
 Editors for your react-based project.
 
 - [Alloy Editor](https://github.com/liferay/alloy-editor/) - WYSIWYG editor based on CKEditor with completely rewritten UI.
+- [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor component for React.
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor component for React.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - A JavaScript rich text editor framework, built for React and backed by an immutable model.
