@@ -74,6 +74,7 @@ Editors for your angular-based project.
 Editors for your react-based project.
 
 - [Alloy Editor](https://github.com/liferay/alloy-editor/) - WYSIWYG editor based on CKEditor with completely rewritten UI.
+- [bangle.dev](https://github.com/bangle-io/bangle.dev) - Higher level collection of ProseMirror components for building rich text editors.
 - [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor component for React.
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor component for React.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
