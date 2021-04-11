@@ -36,9 +36,10 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
-- [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
 - [Tui Editor](http://ui.toast.com/tui-editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented.
+- [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) - A lightweight rich text editor, friendly API and use extremely conventient.
+- [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
 
 ## JQuery Based
 
@@ -138,4 +139,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Jeferson Mari has waived all copyright (2019) and related or neighboring rights to this work.
+To the extent possible under law, Jeferson Mari has waived all copyright (2021) and related or neighboring rights to this work.
