@@ -35,6 +35,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
+- [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
 - [Tui Editor](http://ui.toast.com/tui-editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented.
@@ -105,7 +106,6 @@ Editors for your vue-based project.
 - [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue.
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
-- [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js.
 - [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix editor component for Vue.js.
 
 ## For Ruby
