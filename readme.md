@@ -2,6 +2,8 @@
 
 > A curated list of awesome WYSIWYG editors.
 
+English | [简体中文](./readme-zh-CN.md)
+
 ## Contents
 - [Standalone](#standalone)
 - [JQuery Based](#jquery-based)
