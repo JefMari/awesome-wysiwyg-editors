@@ -32,7 +32,6 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown).
 - [Quill](https://github.com/quilljs/quill) - A modern rich text editor built for compatibility and extensibility.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
-- [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
