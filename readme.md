@@ -27,6 +27,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
+- [Milkdown](https://github.com/Saul-Mirone/milkdown) - Plugin driven WYSIWYG markdown editor framework.
 - [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
 - [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies.
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown).
