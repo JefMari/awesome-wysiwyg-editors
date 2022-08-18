@@ -21,6 +21,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [CKEditor 4](https://github.com/ckeditor/ckeditor-dev) - Battle-tested WYSIWYG HTML editor.
 - [CKEditor 5](https://github.com/ckeditor/ckeditor5) - A set of ready to use rich text editors created with a powerful framework.
 - [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+- [Editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
 - [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.
@@ -32,7 +33,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies.
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown).
 - [Quill](https://github.com/quilljs/quill) - A modern rich text editor built for compatibility and extensibility.
-- [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
+- [Scribe](https://github.com/guardian/scribe) - `Deprecated` A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
 - [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
