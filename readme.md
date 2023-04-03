@@ -9,7 +9,7 @@ English | [简体中文](./readme-zh-CN.md)
 - [jQuery Based](#jquery-based)
 - [For Angular](#for-angular)
 - [For React](#for-react)
-- [For Vue](#for-vue)
+- [For Vue.js](#for-vue)
 - [For Ruby](#for-ruby)
 - [WYSIWYG-alike](#wysiwyg-alike)
 
@@ -100,17 +100,17 @@ Editors for your react-based project.
 - [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies).
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
 
-## For Vue
+## For Vue.js
 
-Editors for your vue-based project.
+Editors for your Vue.js-based project.
 
 - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
-- [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) `$ Non-Free` - Vue component for Froala WYSIWYG HTML Rich Text Editor.
-- [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for vue.
+- [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) `$ Non-Free` - Vue.js component for Froala WYSIWYG HTML Rich Text Editor.
+- [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for Vue.js.
 - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
 - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
-- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for vue.
+- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for Vue.js.
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
 - [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix editor component for Vue.js.
