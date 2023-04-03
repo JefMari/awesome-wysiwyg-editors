@@ -6,7 +6,7 @@ English | [简体中文](./readme-zh-CN.md)
 
 ## Contents
 - [Standalone](#standalone)
-- [JQuery Based](#jquery-based)
+- [jQuery Based](#jquery-based)
 - [For Angular](#for-angular)
 - [For React](#for-react)
 - [For Vue](#for-vue)
@@ -46,9 +46,9 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) - A lightweight rich text editor, friendly API and use extremely conventient.
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
 
-## JQuery Based
+## jQuery Based
 
-JQuery required editors
+jQuery required editors
 
 - [bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 - [Dante Editor](https://github.com/michelson/Dante) - Just another Medium wysiwyg editor clone.
