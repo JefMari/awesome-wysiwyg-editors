@@ -62,9 +62,9 @@ jQuery required editors
 
 ## For Angular
 
-Editors for your angular-based project.
+Editors for your Angular-based project.
 
-- [angular-froala](https://github.com/froala/angular-froala) `$ Non-Free` - Angular.js bindings for Froala WYSIWYG HTML Rich Text Editor. 
+- [angular-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) `$ Non-Free` - Angular 4 to Angular 9 bindings for Froala WYSIWYG Editor. 
 - [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 - [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
