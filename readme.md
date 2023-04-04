@@ -9,7 +9,7 @@ English | [简体中文](./readme-zh-CN.md)
 - [jQuery Based](#jquery-based)
 - [For Angular](#for-angular)
 - [For React](#for-react)
-- [For Vue.js](#for-vue)
+- [For Vue](#for-vue)
 - [For Ruby](#for-ruby)
 - [WYSIWYG-alike](#wysiwyg-alike)
 
@@ -69,16 +69,15 @@ Editors for your Angular-based project.
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 - [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular.
-- [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) - AngularJS Component for Quill rich text editor.
-- [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An angular (>=2) component for the Quill Rich Text Editor.
+- [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An Angular (>=2) component for the Quill Rich Text Editor.
 - [textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js.
 - [tinymce-angular](https://github.com/tinymce/tinymce-angular) - official Angular wrapper for TinyMCE.
-- [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor (Inspired from AngularJS [ngWig](https://github.com/stevermeister/ngWig))
-- [ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for angular using ProseMirror)
+- [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor (Inspired from Angular.js [ngWig](https://github.com/stevermeister/ngWig))
+- [ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror)
 
 ## For React
 
-Editors for your react-based project.
+Editors for your React-based project.
 
 - [Alloy Editor](https://github.com/liferay/alloy-editor/) - WYSIWYG editor based on CKEditor with completely rewritten UI.
 - [bangle.dev](https://github.com/bangle-io/bangle.dev) - Higher level collection of ProseMirror components for building rich text editors.
@@ -87,39 +86,38 @@ Editors for your react-based project.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - A JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
-- [Outline's rich-markdown-editr]. WYSIWYG editor that outputs plain Markdown. To be [archived](https://github.com/outline/rich-markdown-editor/discussions/481).
 - [Plasmic](https://github.com/plasmicapp/plasmic) - A WYSIWYG visual builder that lets you drag and drop React components.
-- [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS.
+- [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of React and DraftJS.
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) `$ Non-Free` - React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit.
 - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js.
-- [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for react.
+- [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for React.
 - [react-trix](https://github.com/dstpierre/react-trix) - React wrapper for Basecamp's Trix editor.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
 - [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies).
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
 
-## For Vue.js
+## For Vue
 
-Editors for your Vue.js-based project.
+Editors for your Vue-based project.
 
-- [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-- [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
-- [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) `$ Non-Free` - Vue.js component for Froala WYSIWYG HTML Rich Text Editor.
-- [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for Vue.js.
-- [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
-- [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.js.
-- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for Vue.js.
-- [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill.
+- [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.
+- [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.
+- [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) `$ Non-Free` - Vue component for Froala WYSIWYG HTML Rich Text Editor.
+- [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - An html5 wysiwyg editor for Vue.
+- [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vue.
+- [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) - A lightweight WYSIWYG editor for Vue.
+- [vue-ckeditor5](https://github.com/igorxut/vue-ckeditor5) - CKEditor 5 for Vue.
+- [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue and Quill.
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
-- [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix editor component for Vue.js.
+- [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix editor component for Vue.
 
 ## For Ruby
 
-Editors for your ruby-based project.
+Editors for your Ruby-based project.
 
-- [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails) - WYSIWYG editor for Bootstrap, integrated in Rails assets pipeline.
+- [bootstrap-wysihtml5-rails](https://github.com/Nerian/bootstrap-wysihtml5-rails) - WYSIWYG editor for Bootstrap, integrated in Ruby on Rails assets pipeline.
 - [bootsy](https://github.com/volmer/bootsy) - A beautiful wysiwyg editor with image upload for Rails.
 - [ckeditor](https://github.com/galetahub/ckeditor) - Ckeditor integration gem for rails.
 - [Mercury Editor](https://github.com/jejacks0n/mercury/) - Mercury Editor: The Rails HTML5 WYSIWYG editor.
@@ -147,4 +145,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Jeferson Mari has waived all copyright (2021) and related or neighboring rights to this work.
+To the extent possible under law, Jeferson Mari has waived all copyright (2023) and related or neighboring rights to this work.
