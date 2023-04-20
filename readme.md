@@ -112,6 +112,7 @@ Editors for your Vue-based project.
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue and Quill.
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - official TinyMCE wrapper for Vue.
 - [vue-trix](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix editor component for Vue.
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual low code form editor based on vue3. It can create forms with simple operations through the GUI interface. It has a flexible interaction. The PC depends on element-plus while the mobile depends on vant. There is a set of adapters to convert parameters into ones that can be recognized by both element-plus and vant. ![github star](https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor.svg?style=social&label=Star)
 
 ## For Ruby
 
