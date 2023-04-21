@@ -111,6 +111,7 @@
 - [Vue2Editor](https://github.com/davidroyer/vue2-editor) - 一个使用 Vue.js 和 Quill 的文本编辑器。 ![github star](https://img.shields.io/github/stars/davidroyer/vue2-editor.svg?style=social&label=Star)
 - [tinymce-vue](https://github.com/tinymce/tinymce-vue) - Vue 的官方 TinyMCE 包装器。 ![github star](https://img.shields.io/github/stars/tinymce/tinymce-vue.svg?style=social&label=Star)
 - [vue-trix](https://github.com/hanhdt/vue-trix) - Vue.js 的简单和轻量级的 Trix 编辑器组件。 ![github star](https://img.shields.io/github/stars/hanhdt/vue-trix.svg?style=social&label=Star)
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - 一个基于Vue3的可视化低代码表单编辑器，通过gui的界面只需简单的操作即可创建出表单，拥有灵活的交互界面，pc端依赖element-plus，mobile依赖vant,内部有一套适配器，适配element和vant的组件。 ![github star](https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor.svg?style=social&label=Star)
 
 ## 基于 Ruby
 
