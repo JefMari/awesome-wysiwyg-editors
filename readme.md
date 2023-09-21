@@ -87,7 +87,7 @@ Editors for your React-based project.
 - [Dante II](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js.
 - [Draft.js](https://github.com/facebook/draft-js) - A JavaScript rich text editor framework, built for React and backed by an immutable model.
 - [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
-- [lexical](https://github.com/facebook/lexical)- Anextensible text editor framework, successor to [Draft.js](https://github.com/facebook/draft-js) by Meta.
+- [lexical](https://github.com/facebook/lexical)- An extensible text editor framework, successor to [Draft.js](https://github.com/facebook/draft-js) by Meta.
 - [Plasmic](https://github.com/plasmicapp/plasmic) - A WYSIWYG visual builder that lets you drag and drop React components.
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of React and DraftJS.
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) `$ Non-Free` - React component for Froala WYSIWYG HTML Rich Text Editor.
