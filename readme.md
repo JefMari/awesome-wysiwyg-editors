@@ -25,27 +25,27 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
-- [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.
+- [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out. :sleeping:
 - [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-- [Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
+- [Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). :sleeping:
 - [Milkdown](https://github.com/Saul-Mirone/milkdown) - Plugin driven WYSIWYG markdown editor framework.
-- [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc.
-- [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies.
-- [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown).
+- [Mobiledoc Kit](https://github.com/bustlelabs/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc. :sleeping:
+- [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. :sleeping:
+- [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown). :sleeping:
 - [Quill](https://github.com/quilljs/quill) - A modern rich text editor built for compatibility and extensibility.
 - [SCEditor](https://github.com/samclarke/SCEditor) - A lightweight WYSIWYG BBCode and XHTML editor.
-- [Scribe](https://github.com/guardian/scribe) - `Deprecated` A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults.
-- [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
-- [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+- [Scribe](https://github.com/guardian/scribe) - `Deprecated` A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults. :sleeping:
+- [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible. 
+- [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing. :sleeping:
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
-- [Tui Editor](http://ui.toast.com/tui-editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-- [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented.
-- [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) - A lightweight rich text editor, friendly API and use extremely conventient.
-- [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web.
+- [Tui Editor](http://ui.toast.com/tui-editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. :sleepy:
+- [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented. :sleeping:
+- [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) - A lightweight rich text editor, friendly API and use extremely convenient. :sleepy:
+- [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web. :sleeping:
 
 ## jQuery Based
 
