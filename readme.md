@@ -21,7 +21,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library.
 - [CKEditor 4](https://github.com/ckeditor/ckeditor-dev) - Battle-tested WYSIWYG HTML editor.
 - [CKEditor 5](https://github.com/ckeditor/ckeditor5) - A set of ready to use rich text editors created with a powerful framework.
-- [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+- [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.  :sleeping:
 - [Editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
