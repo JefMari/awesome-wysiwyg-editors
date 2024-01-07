@@ -140,6 +140,10 @@ WYSIWYG-alike editors
 - [woofmark](https://github.com/bevacqua/woofmark) - A modular, progressive, and beautiful Markdown and HTML editor.
 - [ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Extensible component based editor with fancy drag-and-drop experience.
 
+## Icons
+:sleepy: no updates for 1 year
+:sleeping: no updates for 2 years
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
