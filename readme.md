@@ -46,6 +46,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented. :sleeping:
 - [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) - A lightweight rich text editor, friendly API and use extremely convenient. :sleepy:
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web. :sleeping:
+- [on CodeMerge](https://github.com/s00d/on-codemerge) -  A modular, open source rich text editor.
 
 ## jQuery Based
 
