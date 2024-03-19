@@ -45,6 +45,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Tui Editor](http://ui.toast.com/tui-editor) - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. :sleepy:
 - [UEditor](https://github.com/fex-team/ueditor) - UEditor is a WYSIWYG rich web editor developed by Baidu fex-team. It is lightweight, customizable, and user-oriented. :sleeping:
 - [wangEditor](https://github.com/wangeditor-team/wangEditor/blob/master/README-en.md) - A lightweight rich text editor, friendly API and use extremely convenient. :sleeping:
+- [web-component-designer](https://github.com/node-projects/web-component-designer) - A WYSIWYG Designer for webcomponents as a webcomponent. Live Demo: [here](node-projects.github.io/web-component-designer-demo/index.html)
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web. :sleeping:
 - [on CodeMerge](https://github.com/s00d/on-codemerge) -  A modular, open source rich text editor.
 
