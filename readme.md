@@ -93,6 +93,7 @@ Editors for your React-based project.
 - [lexical](https://github.com/facebook/lexical)- An extensible text editor framework, successor to [Draft.js](https://github.com/facebook/draft-js) by Meta.
 - [megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility
 - [Plasmic](https://github.com/plasmicapp/plasmic) - A WYSIWYG visual builder that lets you drag and drop React components.
+- [Plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of React and DraftJS.
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) `$ Non-Free` - React component for Froala WYSIWYG HTML Rich Text Editor.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit. :sleeping:
@@ -155,4 +156,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Jeferson Mari has waived all copyright (2023) and related or neighboring rights to this work.
+To the extent possible under law, Jeferson Mari has waived all copyright (2024) and related or neighboring rights to this work.
