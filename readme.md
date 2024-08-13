@@ -105,6 +105,7 @@ Editors for your React-based project.
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - A Mobiledoc editor written with React and Mobiledoc-Kit. :sleeping:
 - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React. :sleeping:
 - [react-rte](https://github.com/sstur/react-rte) - Pure React rich text "WYSISYG" editor based on draft-js. :sleeping:
+- [react-simple-wysiwyg](https://github.com/megahertz/react-simple-wysiwyg) - Simple and lightweight React WYSIWYG editor
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for React. :sleeping:
 - [react-trix](https://github.com/dstpierre/react-trix) - React wrapper for Basecamp's Trix editor.
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
