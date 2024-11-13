@@ -54,6 +54,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [web-component-designer](https://github.com/node-projects/web-component-designer) - A WYSIWYG Designer for webcomponents as a webcomponent. Live Demo: [here](https://node-projects.github.io/web-component-designer-demo/index.html)
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web. :sleeping:
 - [on CodeMerge](https://github.com/s00d/on-codemerge) - A modular, open source rich text editor.
+- [Flowbite WYSIWYG](https://flowbite.com/docs/plugins/wysiwyg/) - Open-source text editor based on Tailwind CSS and Tip Tap
 
 ## jQuery Based
 
