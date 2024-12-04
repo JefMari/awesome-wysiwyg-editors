@@ -43,7 +43,6 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [SCEditor](https://github.com/samclarke/SCEditor) - A lightweight WYSIWYG BBCode and XHTML editor.
 - [Scribe](https://github.com/guardian/scribe) - `Deprecated` A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults. :sleeping:
 - [Squire](https://github.com/neilj/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
-- [Substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing. :sleeping:
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
