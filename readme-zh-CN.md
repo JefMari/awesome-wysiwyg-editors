@@ -90,6 +90,7 @@
 - [Dante II](https://github.com/michelson/dante2) - 在 draft-js 中完全重写 dante 编辑器。 ![github star](https://img.shields.io/github/stars/michelson/dante2.svg?style=social&label=Star)
 - [Draft.js](https://github.com/facebook/draft-js) - 一个 JavaScript 富文本编辑器框架，为 React 而建，由一个不可变的模型支持。 ![github star](https://img.shields.io/github/stars/facebook/draft-js.svg?style=social&label=Star)
 - [jodit-react](https://github.com/jodit/jodit-react) - Jodit 编辑器的 React 组件。 ![github star](https://img.shields.io/github/stars/jodit/jodit-react.svg?style=social&label=Star)
+- [Plate.js](https://github.com/udecode/plate) 一个基于 slate.js 并由 AI 驱动的富文本编辑器，轻松构建类似 Notion 的编辑器。
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - 一个建立在 ReactJS 和 DraftJS 之上的 wysiwyg 编辑器。 ![github star](https://img.shields.io/github/stars/jpuri/react-draft-wysiwyg.svg?style=social&label=Star)
 - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) `$ Non-Free` - 用于 Froala WYSIWYG HTML 富文本编辑器的 React 组件。 ![github star](https://img.shields.io/github/stars/froala/react-froala-wysiwyg.svg?style=social&label=Star)
 - [react-mobiledoc-editor](https://github.com/upworthy/react-mobiledoc-editor) - 一个用 React 和 Mobiledoc-Kit 编写的 Mobiledoc 编辑器。 ![github star](https://img.shields.io/github/stars/upworthy/react-mobiledoc-editor.svg?style=social&label=Star)
