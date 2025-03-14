@@ -83,6 +83,7 @@ Editors for your Angular-based project.
 - [tinymce-angular](https://github.com/tinymce/tinymce-angular) - official Angular wrapper for TinyMCE.
 - [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor (Inspired from Angular.js [ngWig](https://github.com/stevermeister/ngWig))
 - [ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror)
+- [angular-editor](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular 6 -19+
 
 ## For React
 
