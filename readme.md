@@ -54,7 +54,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web. :sleeping:
 - [on CodeMerge](https://github.com/s00d/on-codemerge) - A modular, open source rich text editor.
 - [Flowbite WYSIWYG](https://flowbite.com/docs/plugins/wysiwyg/) - Open-source text editor based on Tailwind CSS and Tip Tap
-- [g-editor]([url](https://github.com/front/g-editor)) A minimalist version of [Wordpress Gutenberg's]([url](https://github.com/Wordpress/gutenberg)) editor. Ideal for checking your custom blocks.
+- [g-editor](https://github.com/front/g-editor) A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) editor. Ideal for checking your custom blocks.
 
 ## jQuery Based
 
