@@ -150,6 +150,7 @@ WYSIWYG-alike editors
 
 - [EmojiOne Area](https://github.com/mervick/emojionearea) - WYSIWYG-like EmojiOne Converter / Picker Plugin for jQuery. :sleeping:
 - [GrapesJS](https://github.com/artf/grapesjs) - An open-source, multi-purpose, Web Builder Framework.
+- [Kameo](https://github.com/kameojs/kameo) - A web form editor and viewer in rich text.
 - [last-draft](https://github.com/vacenz/last-draft) - A Draft.js editor using draft-js-plugins. :sleeping:
 - [Ory editor](https://github.com/ory/editor) - Next-gen, highly customizable content editor for the browser - based on React and Redux. WYSIWYG on steroids. :sleeping:
 - [prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor.
