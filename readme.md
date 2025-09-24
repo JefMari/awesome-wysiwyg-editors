@@ -100,6 +100,7 @@ Editors for your React-based project.
 - [Draft.js](https://github.com/facebook/draft-js) - A JavaScript rich text editor framework, built for React and backed by an immutable model. :sleeping:
 - [jodit-react](https://github.com/jodit/jodit-react) - React component for Jodit Editor.
 - [lexical](https://github.com/facebook/lexical)- An extensible text editor framework, successor to [Draft.js](https://github.com/facebook/draft-js) by Meta.
+- [LexKit](https://github.com/novincode/lexkit)- An Open Source Layer on top of Lexical, to make Lexical more out of the box and DX frienldy.
 - [megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility
 - [Plasmic](https://github.com/plasmicapp/plasmic) - A WYSIWYG visual builder that lets you drag and drop React components.
 - [Plate](https://github.com/udecode/plate) - A rich-text editor based on slate.js powered by AI.Easily build a Notion-like editor.
