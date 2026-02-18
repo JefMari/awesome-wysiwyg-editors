@@ -56,6 +56,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Flowbite WYSIWYG](https://flowbite.com/docs/plugins/wysiwyg/) - Open-source text editor based on Tailwind CSS and Tip Tap
 - [g-editor](https://github.com/front/g-editor) A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) editor. Ideal for checking your custom blocks.
 - [FlyonUI WYSIWYG Editor](https://flyonui.com/docs/third-party-plugins/editor) - Utilize the WYSIWYG text editor to create and modify content, adjusting paragraphs, headings, images, and styling options.
+- [Draftly](https://github.com/NeuroNexul/draftly) - A WYSIWYG Markdown editor that removes the barrier between writing and preview, while keeping the underlying Markdown accessible and editable. Being a Codemirror 6 Extension, this can be used with **any Framework**.
 
 ## jQuery Based
 
