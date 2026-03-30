@@ -25,7 +25,7 @@ The new system intentionally collapses the old two-tier time distinction (1 year
 
 ### Marker Placement
 
-Markers go at the end of the description text, before any star badges (in the Chinese README) or at the end of the line (in the English README). This matches the existing position of `:sleeping:` and `:sleepy:` emojis.
+Markers go at the end of the description text, before any star badges (in the Chinese README) or at the end of the line (in the English README). If a Chinese README entry has no star badge, the marker goes at the end of the line, same as the English README. This matches the existing position of `:sleeping:` and `:sleepy:` emojis.
 
 **English README example:**
 ```markdown
@@ -90,6 +90,8 @@ As part of implementation, every URL in both READMEs must be checked for:
 2. `readme-zh-CN.md` — add markers to all projects; create an Icons section
 
 **Chinese README divergence:** The Chinese README contains a different set of projects than the English one (some projects appear in only one file). Markers should be applied to **all projects in each file independently** based on the classification criteria. Synchronizing the project lists between the two READMEs is out of scope for this change.
+
+**Chinese README Table of Contents:** The ToC in `readme-zh-CN.md` must be updated to include the new `## 图标` section.
 
 **What stays the same:**
 - No projects are removed
