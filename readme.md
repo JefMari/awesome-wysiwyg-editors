@@ -28,6 +28,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [CKEditor 4](https://github.com/ckeditor/ckeditor-dev) - Battle-tested WYSIWYG HTML editor.
 - [CKEditor 5](https://github.com/ckeditor/ckeditor5) - A set of ready to use rich text editors created with a powerful framework.
 - [Content Tools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content. :sleeping:
+- [Domternal](https://github.com/domternal/domternal) - Lightweight, extensible rich text editor toolkit. Headless core with optional customizable toolbar and light & dark theme.
 - [Editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output.
 - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing.
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
@@ -79,6 +80,7 @@ Editors for your Angular-based project.
 - [angular-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) `$ Non-Free` - Angular 4 to Angular 9 bindings for Froala WYSIWYG Editor.
 - [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 - [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
+- [domternal](https://github.com/domternal/domternal) - Lightweight, extensible rich text editor toolkit with native Angular components, built-in toolbar and theme, and full table support.
 - [ngx-summernote](https://github.com/lula/ngx-summernote) - Summernote wysiwyg editor for Angular.
 - [jodit-angular](https://github.com/jodit/jodit-angular) - Angular wrapper around Jodit to make it easier to use in a Angular.
 - [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - An Angular (>=2) component for the Quill Rich Text Editor.
