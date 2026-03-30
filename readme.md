@@ -174,8 +174,11 @@ WYSIWYG-alike editors
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+## Growing thanks to you
+[![Stargazers over time](https://starchart.cc/JefMari/awesome-wysiwyg-editors.svg?variant=adaptive)](https://starchart.cc/JefMari/awesome-wysiwyg-editors)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Jeferson Mari has waived all copyright (2024) and related or neighboring rights to this work.
+To the extent possible under law, Jeferson Mari has waived all copyright (2026) and related or neighboring rights to this work.
