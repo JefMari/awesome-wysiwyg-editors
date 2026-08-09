@@ -39,6 +39,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). `💤 Inactive`
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework.
 - [Mobiledoc Kit](https://github.com/bustle/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc. `💤 Inactive`
+- [mutxt.com](https://mutxt.com) &mdash; a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
 - [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. `💤 Inactive`
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown). `💤 Inactive`
 - [Quill](https://github.com/slab/quill) - A modern rich text editor built for compatibility and extensibility.
