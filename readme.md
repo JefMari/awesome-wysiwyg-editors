@@ -23,7 +23,7 @@ English | [简体中文](./readme-zh-CN.md)
 
 WYSIWYG Editors that can be use without dependecy to other libraries or frameworks.
 
-- [Adiptal Editor](https://github.com/adiptal/studio) - `Free` & Upgradable to `$ Non-Free` - Adiptal Editor is an iframe-based WYSIWYG Editor built on JavaScript. With advanced features & custom elements, it gives clean output to design responsive pages. `💤 Inactive`
+- [Adiptal Editor](https://github.com/adiptal/studio) - `Free` & Upgradable to `$ Non-Free` - Adiptal Editor is an iframe-based Page Builder on JavaScript. With advanced features & custom elements, it gives designed responsive pages.
 - [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library.
 - [Blok](https://github.com/JackUait/blok) - Headless block-based editor with clean JSON output and official React, Vue and Angular adapters.
 - [CKEditor 4](https://github.com/ckeditor/ckeditor4) - Battle-tested WYSIWYG HTML editor. `💤 Inactive`
