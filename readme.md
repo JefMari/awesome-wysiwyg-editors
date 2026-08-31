@@ -59,6 +59,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [g-editor](https://github.com/front/g-editor) A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) editor. Ideal for checking your custom blocks.
 - [FlyonUI WYSIWYG Editor](https://flyonui.com/docs/third-party-plugins/editor) - Utilize the WYSIWYG text editor to create and modify content, adjusting paragraphs, headings, images, and styling options.
 - [Draftly](https://github.com/NeuroNexul/draftly) - A WYSIWYG Markdown editor that removes the barrier between writing and preview, while keeping the underlying Markdown accessible and editable. Being a Codemirror 6 Extension, this can be used with **any Framework**.
+- [NABI NOTE (나비노트)](https://github.com/saro-lab/nabi-note) - A free, zero-dependency WYSIWYG editor with a DOM-less architecture, SSR, built-in XSS protection, extensible Wing plugins, AI-ready documentation, and multilingual LTR/RTL support.
 
 ## jQuery Based
 
