@@ -45,6 +45,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [SCEditor](https://github.com/samclarke/SCEditor) - A lightweight WYSIWYG BBCode and XHTML editor.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults. `⛔ Deprecated`
 - [Squire](https://github.com/fastmail/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
+- [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with tables, paste from Word and official React, Vue and Svelte wrappers.
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
@@ -120,6 +121,7 @@ Editors for your React-based project.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for React. `💤 Inactive`
 - [react-trix](https://github.com/rob-race/react-trix) - React wrapper for Basecamp's Trix editor. `💤 Inactive`
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
+- [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with a native React component and hook, SSR and Next.js App Router support.
 - [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies). `💤 Inactive`
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
 - [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with modern React support
@@ -142,6 +144,7 @@ Editors for your Vue-based project.
 - [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual low code form editor based on vue3. It can create forms with simple operations through the GUI interface. It has a flexible interaction. The PC depends on element-plus while the mobile depends on vant. There is a set of adapters to convert parameters into ones that can be recognized by both element-plus and vant. ![github star](https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor.svg?style=social&label=Star) `💤 Inactive`
 - [vue-quill](https://github.com/vueup/vue-quill) - VueQuill is a Component for building rich text editors, powered by Vue 3 and Quill. `💤 Inactive`
 - [element-tiptap](https://github.com/Leecason/element-tiptap) - A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2). `💤 Inactive`
+- [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with a native Vue 3 component and composable, and SSR support.
 
 ## For Ruby
 
