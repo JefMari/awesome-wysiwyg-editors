@@ -42,6 +42,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. `💤 Inactive`
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown). `💤 Inactive`
 - [Quill](https://github.com/slab/quill) - A modern rich text editor built for compatibility and extensibility.
+- [RichTextEditor](https://github.com/richtexteditor/richtexteditor) `$ Non-Free ⊘ Proprietary` - A JavaScript WYSIWYG editor with an AI toolkit, CRDT collaboration and a perpetual licence.
 - [SCEditor](https://github.com/samclarke/SCEditor) - A lightweight WYSIWYG BBCode and XHTML editor.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults. `⛔ Deprecated`
 - [Squire](https://github.com/fastmail/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
