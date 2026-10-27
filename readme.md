@@ -167,7 +167,7 @@ WYSIWYG-alike editors
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web. `💤 Inactive`
 - [woofmark](https://github.com/bevacqua/woofmark) - A modular, progressive, and beautiful Markdown and HTML editor. `💤 Inactive`
 - [ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Extensible component based editor with fancy drag-and-drop experience. `💤 Inactive`
-- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU) `Freemium`
 
 ## Icons
 
