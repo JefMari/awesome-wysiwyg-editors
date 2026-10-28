@@ -49,6 +49,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Squire](https://github.com/fastmail/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
 - [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with tables, paste from Word and official React, Vue and Svelte wrappers.
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
+- [SunnyBooks](https://github.com/iSunnyTT) - Smart Online WYSIWYG html editor for books (and simple static websites).
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
