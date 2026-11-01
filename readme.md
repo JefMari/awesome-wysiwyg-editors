@@ -23,7 +23,7 @@ English | [简体中文](./readme-zh-CN.md)
 
 WYSIWYG Editors that can be use without dependecy to other libraries or frameworks.
 
-- [Adiptal Editor](https://github.com/adiptal/studio) - `Free` & Upgradable to `$ Non-Free` - Adiptal Editor is an iframe-based WYSIWYG Editor built on JavaScript. With advanced features & custom elements, it gives clean output to design responsive pages. `💤 Inactive`
+- [Adiptal Studio](https://github.com/adiptal/studio) - `Free` & Upgradable to `$ Non-Free` - Adiptal Studio is an iframe-based self-host Page Builder on JavaScript. With advanced features & custom elements, it gives designed responsive pages.
 - [Aloha Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library.
 - [Blok](https://github.com/JackUait/blok) - Headless block-based editor with clean JSON output and official React, Vue and Angular adapters.
 - [CKEditor 4](https://github.com/ckeditor/ckeditor4) - Battle-tested WYSIWYG HTML editor. `💤 Inactive`
@@ -39,13 +39,17 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). `💤 Inactive`
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework.
 - [Mobiledoc Kit](https://github.com/bustle/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc. `💤 Inactive`
+- [mutxt.com](https://mutxt.com) - a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
 - [Pell](https://github.com/jaredreich/pell) - The simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies. `💤 Inactive`
 - [Pen Editor](https://github.com/sofish/pen) - Enjoy live editing (+markdown). `💤 Inactive`
 - [Quill](https://github.com/slab/quill) - A modern rich text editor built for compatibility and extensibility.
+- [RichTextEditor](https://github.com/richtexteditor/richtexteditor) `$ Non-Free ⊘ Proprietary` - A JavaScript WYSIWYG editor with an AI toolkit, CRDT collaboration and a perpetual licence.
 - [SCEditor](https://github.com/samclarke/SCEditor) - A lightweight WYSIWYG BBCode and XHTML editor.
 - [Scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform, with patches for browser inconsistencies and sensible defaults. `⛔ Deprecated`
 - [Squire](https://github.com/fastmail/Squire) - An HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible.
+- [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with tables, paste from Word and official React, Vue and Svelte wrappers.
 - [SunEditor](https://github.com/JiHong88/SunEditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
+- [SunnyBooks](https://github.com/iSunnyTT) - Smart Online WYSIWYG html editor for books (and simple static websites).
 - [TinyMCE](https://github.com/tinymce/tinymce) - A JavaScript library for platform independent 'WYSIWYG' or rich text editing.
 - [tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing.
@@ -60,6 +64,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [FlyonUI WYSIWYG Editor](https://flyonui.com/docs/third-party-plugins/editor) - Utilize the WYSIWYG text editor to create and modify content, adjusting paragraphs, headings, images, and styling options.
 - [Draftly](https://github.com/NeuroNexul/draftly) - A WYSIWYG Markdown editor that removes the barrier between writing and preview, while keeping the underlying Markdown accessible and editable. Being a Codemirror 6 Extension, this can be used with **any Framework**.
 - [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with support for moderm frameworks and libraries
+- [NABI NOTE (나비노트)](https://nabi.saro.me) - A free, zero-dependency WYSIWYG editor with a DOM-less architecture, SSR, built-in XSS protection, extensible Wing plugins, AI-ready documentation, and multilingual LTR/RTL support.
 
 ## jQuery Based
 
@@ -122,6 +127,7 @@ Editors for your React-based project.
 - [react-summernote](https://github.com/Vnkitaev/react-summernote) - Summernote (Super simple WYSIWYG editor) adaptation for React. `💤 Inactive`
 - [react-trix](https://github.com/rob-race/react-trix) - React wrapper for Basecamp's Trix editor. `💤 Inactive`
 - [Slate JS](https://github.com/ianstormtaylor/slate) - A completely customizable framework.
+- [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with a native React component and hook, SSR and Next.js App Router support.
 - [suneditor-react](https://github.com/mkhstar/suneditor-react) - Pure React Component for SunEditor (Pure javascript based WYSIWYG html editor, with no dependencies). `💤 Inactive`
 - [tinymce-react](https://github.com/tinymce/tinymce-react) - official React wrapper for TinyMCE.
 - [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with modern React support
@@ -145,6 +151,7 @@ Editors for your Vue-based project.
 - [vue-quill](https://github.com/vueup/vue-quill) - VueQuill is a Component for building rich text editors, powered by Vue 3 and Quill. `💤 Inactive`
 - [element-tiptap](https://github.com/Leecason/element-tiptap) - A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2). `💤 Inactive`
 - [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with support for Vue
+- [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with a native Vue 3 component and composable, and SSR support.
 
 ## For Ruby
 
@@ -170,6 +177,7 @@ WYSIWYG-alike editors
 - [Sir Trevor](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web. `💤 Inactive`
 - [woofmark](https://github.com/bevacqua/woofmark) - A modular, progressive, and beautiful Markdown and HTML editor. `💤 Inactive`
 - [ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Extensible component based editor with fancy drag-and-drop experience. `💤 Inactive`
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU) `Freemium`
 
 ## Icons
 
