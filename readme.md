@@ -35,6 +35,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [Froala Editor](https://github.com/froala/wysiwyg-editor) `$ Non-Free ⊘ Proprietary` - A beautifuly designed WYSIWYG Rich Text Editor based on HTML5.
 - [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out. `💤 Inactive`
 - [Jodit](https://github.com/xdan/jodit) - Rich HTML WYSIWYG Editor and FileBrowser. `💤 Inactive`
+- [MarkDawn Writer](https://github.com/diegocano-dev/markdawn-apps) - Word-like WYSIWYG editor that saves clean Markdown, shipped as a single dependency-free HTML file with a small JavaScript API.
 - [Medium Editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution. `💤 Inactive`
 - [Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). `💤 Inactive`
 - [Milkdown](https://github.com/Milkdown/milkdown) - Plugin driven WYSIWYG markdown editor framework.
