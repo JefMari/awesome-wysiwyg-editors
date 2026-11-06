@@ -63,6 +63,7 @@ WYSIWYG Editors that can be use without dependecy to other libraries or framewor
 - [g-editor](https://github.com/front/g-editor) A minimalist version of [Wordpress Gutenberg's](https://github.com/Wordpress/gutenberg) editor. Ideal for checking your custom blocks.
 - [FlyonUI WYSIWYG Editor](https://flyonui.com/docs/third-party-plugins/editor) - Utilize the WYSIWYG text editor to create and modify content, adjusting paragraphs, headings, images, and styling options.
 - [Draftly](https://github.com/NeuroNexul/draftly) - A WYSIWYG Markdown editor that removes the barrier between writing and preview, while keeping the underlying Markdown accessible and editable. Being a Codemirror 6 Extension, this can be used with **any Framework**.
+- [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with support for moderm frameworks and libraries
 - [NABI NOTE (나비노트)](https://nabi.saro.me) - A free, zero-dependency WYSIWYG editor with a DOM-less architecture, SSR, built-in XSS protection, extensible Wing plugins, AI-ready documentation, and multilingual LTR/RTL support.
 
 ## jQuery Based
@@ -96,6 +97,7 @@ Editors for your Angular-based project.
 - [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor (Inspired from Angular.js [ngWig](https://github.com/stevermeister/ngWig))
 - [ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror)
 - [angular-editor](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular 6 -19+
+- [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with support for Angular
 
 ## For React
 
@@ -148,6 +150,7 @@ Editors for your Vue-based project.
 - [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual low code form editor based on vue3. It can create forms with simple operations through the GUI interface. It has a flexible interaction. The PC depends on element-plus while the mobile depends on vant. There is a set of adapters to convert parameters into ones that can be recognized by both element-plus and vant. ![github star](https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor.svg?style=social&label=Star) `💤 Inactive`
 - [vue-quill](https://github.com/vueup/vue-quill) - VueQuill is a Component for building rich text editors, powered by Vue 3 and Quill. `💤 Inactive`
 - [element-tiptap](https://github.com/Leecason/element-tiptap) - A modern WYSIWYG rich-text editor using tiptap and Element UI for Vue3 (1.0 for Vue2). `💤 Inactive`
+- [lilac](https://github.com/maifeeulasad/lilac) - A WYSIWYG editor with support for Vue
 - [Stilo](https://github.com/kojak8791/stilo-editor) - WYSIWYG HTML editor built on ProseMirror, with a native Vue 3 component and composable, and SSR support.
 
 ## For Ruby
